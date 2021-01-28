@@ -1,0 +1,25 @@
+#Krediler menu sayfasindan ihtiyac kredisi sayfasina git
+*"kredilerMenu" elementi var mi
+*"kredilerMenu" elementinin üzerine gel
+*"3" saniye bekle
+*"ihtiyacKredileri" elementi var mi
+*"ihtiyacKredileri" elementine tikla
+*"3" saniye bekle
+*"ihtiyacKredisiDetaylı" elementi var mi
+*"ihtiyacKredisiDetaylı" elementine tikla
+
+#Ihtiyac kredisi detayli bilgi sayfasindan findeks raporu sayfasina git
+*"findeksRiskRaporu" elementi var mi
+*"findeksRiskRaporu" elementine tikla
+*"3" saniye bekle
+*"findeksNotu" elementi var mi
+*"findeksNotu" elementine tikla
+
+#Bireysel paketlerden yeni bir pencereye gec premium paket satın al git ve dogrula
+*"premiumSatinAl" elementi var mi
+*"premiumSatinAl" elementine tikla
+*"3" saniye bekle
+*"premiumSatinAlBaslik" elementi var mi
+*"3" saniye bekle
+*"premiumSatinAlBaslik" elementinde yazan isim ile "Premium Satın Al"'i karsilastir
+*"3" saniye bekle

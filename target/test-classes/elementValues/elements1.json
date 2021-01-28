@@ -1,0 +1,42 @@
+[
+  {
+    "key": "kredilerMenu",
+    "value": "//cufon[@alt='Krediler']",
+    "type": "xpath"
+  },
+  {
+    "key": "ihtiyacKredileri",
+    "value": "//a[@href='/ihtiyac-kredileri/']",
+    "type": "xpath"
+  },
+  {
+    "key": "ihtiyacKredisiDetaylı",
+    "value": "//a[@href='/sizin-icin/ihtiyac-kredisi/']",
+    "type": "xpath"
+  },
+  {
+    "key": "findeksRiskRaporu",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div[1]/div/div[3]/table/tbody/tr[4]/td/a",
+    "type": "xpath"
+  },
+  {
+    "key": "findeksNotu",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div[1]/div/div[3]/table/tbody/tr[4]/td/div/li[2]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "findeksBireyselPaketler",
+    "value": "//*[@id=\"ctl00_u10_ascIcerik_lblICR_METIN_TEMPLATE\"]/div/div[3]/div/div/p[17]/a[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "premiumSatinAl",
+    "value": "//a[@data-striim-id='premium']",
+    "type": "xpath"
+  },
+  {
+    "key": "premiumSatinAlBaslik",
+    "value": "//*[@id=\"purchasePopupHeader\"]",
+    "type": "xpath"
+  }
+]
